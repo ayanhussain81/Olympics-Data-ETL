@@ -1,0 +1,4460 @@
+[
+  {
+    "TeamName": "Belgium",
+    "Discipline": "3x3 Basketball",
+    "Country": "Belgium",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "3x3 Basketball",
+    "Country": "People's Republic of China",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "3x3 Basketball",
+    "Country": "People's Republic of China",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "3x3 Basketball",
+    "Country": "France",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "3x3 Basketball",
+    "Country": "Italy",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "3x3 Basketball",
+    "Country": "Japan",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "3x3 Basketball",
+    "Country": "Japan",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Latvia",
+    "Discipline": "3x3 Basketball",
+    "Country": "Latvia",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Mongolia",
+    "Discipline": "3x3 Basketball",
+    "Country": "Mongolia",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "3x3 Basketball",
+    "Country": "Netherlands",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "3x3 Basketball",
+    "Country": "Poland",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "3x3 Basketball",
+    "Country": "ROC",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "3x3 Basketball",
+    "Country": "ROC",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Romania",
+    "Discipline": "3x3 Basketball",
+    "Country": "Romania",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Serbia",
+    "Discipline": "3x3 Basketball",
+    "Country": "Serbia",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "3x3 Basketball",
+    "Country": "United States of America",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Archery",
+    "Country": "Australia",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Archery",
+    "Country": "Australia",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Bangladesh",
+    "Discipline": "Archery",
+    "Country": "Bangladesh",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Belarus",
+    "Discipline": "Archery",
+    "Country": "Belarus",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Archery",
+    "Country": "Brazil",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Archery",
+    "Country": "Canada",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Archery",
+    "Country": "People's Republic of China",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Archery",
+    "Country": "People's Republic of China",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Archery",
+    "Country": "People's Republic of China",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Chinese Taipei",
+    "Discipline": "Archery",
+    "Country": "Chinese Taipei",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Chinese Taipei",
+    "Discipline": "Archery",
+    "Country": "Chinese Taipei",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Chinese Taipei",
+    "Discipline": "Archery",
+    "Country": "Chinese Taipei",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Colombia",
+    "Discipline": "Archery",
+    "Country": "Colombia",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Egypt",
+    "Discipline": "Archery",
+    "Country": "Egypt",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Archery",
+    "Country": "France",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Archery",
+    "Country": "France",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Archery",
+    "Country": "Germany",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Archery",
+    "Country": "Germany",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Archery",
+    "Country": "Great Britain",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Archery",
+    "Country": "Great Britain",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Archery",
+    "Country": "Great Britain",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "India",
+    "Discipline": "Archery",
+    "Country": "India",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "India",
+    "Discipline": "Archery",
+    "Country": "India",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Indonesia",
+    "Discipline": "Archery",
+    "Country": "Indonesia",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Indonesia",
+    "Discipline": "Archery",
+    "Country": "Indonesia",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Archery",
+    "Country": "Italy",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Archery",
+    "Country": "Italy",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Archery",
+    "Country": "Japan",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Archery",
+    "Country": "Japan",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Archery",
+    "Country": "Japan",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Kazakhstan",
+    "Discipline": "Archery",
+    "Country": "Kazakhstan",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Malaysia",
+    "Discipline": "Archery",
+    "Country": "Malaysia",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Mexico",
+    "Discipline": "Archery",
+    "Country": "Mexico",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Mexico",
+    "Discipline": "Archery",
+    "Country": "Mexico",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Mongolia",
+    "Discipline": "Archery",
+    "Country": "Mongolia",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Archery",
+    "Country": "Netherlands",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Archery",
+    "Country": "Netherlands",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Archery",
+    "Country": "Poland",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Rep. of Moldova",
+    "Discipline": "Archery",
+    "Country": "Republic of Moldova",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Archery",
+    "Country": "Republic of Korea",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Archery",
+    "Country": "Republic of Korea",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Archery",
+    "Country": "Republic of Korea",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Archery",
+    "Country": "ROC",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Archery",
+    "Country": "ROC",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Archery",
+    "Country": "Spain",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Tunisia",
+    "Discipline": "Archery",
+    "Country": "Tunisia",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Turkey",
+    "Discipline": "Archery",
+    "Country": "Turkey",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Ukraine",
+    "Discipline": "Archery",
+    "Country": "Ukraine",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Ukraine",
+    "Discipline": "Archery",
+    "Country": "Ukraine",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Archery",
+    "Country": "United States of America",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Archery",
+    "Country": "United States of America",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Archery",
+    "Country": "United States of America",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Vietnam",
+    "Discipline": "Archery",
+    "Country": "Vietnam",
+    "Event": "Mixed Team"
+  },
+  {
+    "TeamName": "Belgium",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Belgium",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Brazil",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Canada",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "People's Republic of China",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "People's Republic of China",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Chinese Taipei",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Chinese Taipei",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "France",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Germany",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Germany",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Great Britain",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Great Britain",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Italy",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Japan",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Japan",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Netherlands",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Korea",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Republic of Korea",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "ROC",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "ROC",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Spain",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Spain",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Switzerland",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Switzerland",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Ukraine",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "Ukraine",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "United States of America",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Artistic Gymnastics",
+    "Country": "United States of America",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Artistic Swimming",
+    "Country": "Australia",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Artistic Swimming",
+    "Country": "Australia",
+    "Event": "Team"
+  },
+  {
+    "TeamName": "Austria",
+    "Discipline": "Artistic Swimming",
+    "Country": "Austria",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Belarus",
+    "Discipline": "Artistic Swimming",
+    "Country": "Belarus",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Artistic Swimming",
+    "Country": "Canada",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Artistic Swimming",
+    "Country": "Canada",
+    "Event": "Team"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Artistic Swimming",
+    "Country": "People's Republic of China",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Artistic Swimming",
+    "Country": "People's Republic of China",
+    "Event": "Team"
+  },
+  {
+    "TeamName": "Colombia",
+    "Discipline": "Artistic Swimming",
+    "Country": "Colombia",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Egypt",
+    "Discipline": "Artistic Swimming",
+    "Country": "Egypt",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Egypt",
+    "Discipline": "Artistic Swimming",
+    "Country": "Egypt",
+    "Event": "Team"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Artistic Swimming",
+    "Country": "France",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Artistic Swimming",
+    "Country": "Great Britain",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Greece",
+    "Discipline": "Artistic Swimming",
+    "Country": "Greece",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Greece",
+    "Discipline": "Artistic Swimming",
+    "Country": "Greece",
+    "Event": "Team"
+  },
+  {
+    "TeamName": "Israel",
+    "Discipline": "Artistic Swimming",
+    "Country": "Israel",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Artistic Swimming",
+    "Country": "Italy",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Artistic Swimming",
+    "Country": "Italy",
+    "Event": "Team"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Artistic Swimming",
+    "Country": "Japan",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Artistic Swimming",
+    "Country": "Japan",
+    "Event": "Team"
+  },
+  {
+    "TeamName": "Kazakhstan",
+    "Discipline": "Artistic Swimming",
+    "Country": "Kazakhstan",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Liechtenstein",
+    "Discipline": "Artistic Swimming",
+    "Country": "Liechtenstein",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Mexico",
+    "Discipline": "Artistic Swimming",
+    "Country": "Mexico",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Artistic Swimming",
+    "Country": "Netherlands",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Artistic Swimming",
+    "Country": "ROC",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Artistic Swimming",
+    "Country": "ROC",
+    "Event": "Team"
+  },
+  {
+    "TeamName": "South Africa",
+    "Discipline": "Artistic Swimming",
+    "Country": "South Africa",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Artistic Swimming",
+    "Country": "Spain",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Artistic Swimming",
+    "Country": "Spain",
+    "Event": "Team"
+  },
+  {
+    "TeamName": "Ukraine",
+    "Discipline": "Artistic Swimming",
+    "Country": "Ukraine",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Ukraine",
+    "Discipline": "Artistic Swimming",
+    "Country": "Ukraine",
+    "Event": "Team"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Artistic Swimming",
+    "Country": "United States of America",
+    "Event": "Duet"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Athletics",
+    "Country": "Australia",
+    "Event": "Women's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Bahamas",
+    "Discipline": "Athletics",
+    "Country": "Bahamas",
+    "Event": "Women's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Belarus",
+    "Discipline": "Athletics",
+    "Country": "Belarus",
+    "Event": "Women's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Belgium",
+    "Discipline": "Athletics",
+    "Country": "Belgium",
+    "Event": "4 x 400m Relay Mixed"
+  },
+  {
+    "TeamName": "Belgium",
+    "Discipline": "Athletics",
+    "Country": "Belgium",
+    "Event": "Men's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Belgium",
+    "Discipline": "Athletics",
+    "Country": "Belgium",
+    "Event": "Women's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Botswana",
+    "Discipline": "Athletics",
+    "Country": "Botswana",
+    "Event": "Men's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Athletics",
+    "Country": "Brazil",
+    "Event": "4 x 400m Relay Mixed"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Athletics",
+    "Country": "Brazil",
+    "Event": "Men's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Athletics",
+    "Country": "Brazil",
+    "Event": "Women's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Athletics",
+    "Country": "Canada",
+    "Event": "Men's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Athletics",
+    "Country": "Canada",
+    "Event": "Women's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Athletics",
+    "Country": "People's Republic of China",
+    "Event": "Men's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Athletics",
+    "Country": "People's Republic of China",
+    "Event": "Women's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Colombia",
+    "Discipline": "Athletics",
+    "Country": "Colombia",
+    "Event": "Men's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Cuba",
+    "Discipline": "Athletics",
+    "Country": "Cuba",
+    "Event": "Women's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Czech Republic",
+    "Discipline": "Athletics",
+    "Country": "Czech Republic",
+    "Event": "Men's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Denmark",
+    "Discipline": "Athletics",
+    "Country": "Denmark",
+    "Event": "Men's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Denmark",
+    "Discipline": "Athletics",
+    "Country": "Denmark",
+    "Event": "Women's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Dominican Rep.",
+    "Discipline": "Athletics",
+    "Country": "Dominican Republic",
+    "Event": "4 x 400m Relay Mixed"
+  },
+  {
+    "TeamName": "Ecuador",
+    "Discipline": "Athletics",
+    "Country": "Ecuador",
+    "Event": "Women's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Athletics",
+    "Country": "France",
+    "Event": "Men's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Athletics",
+    "Country": "France",
+    "Event": "Men's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Athletics",
+    "Country": "France",
+    "Event": "Women's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Athletics",
+    "Country": "France",
+    "Event": "Women's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Athletics",
+    "Country": "Germany",
+    "Event": "4 x 400m Relay Mixed"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Athletics",
+    "Country": "Germany",
+    "Event": "Men's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Athletics",
+    "Country": "Germany",
+    "Event": "Men's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Athletics",
+    "Country": "Germany",
+    "Event": "Women's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Athletics",
+    "Country": "Germany",
+    "Event": "Women's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Ghana",
+    "Discipline": "Athletics",
+    "Country": "Ghana",
+    "Event": "Men's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Athletics",
+    "Country": "Great Britain",
+    "Event": "4 x 400m Relay Mixed"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Athletics",
+    "Country": "Great Britain",
+    "Event": "Men's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Athletics",
+    "Country": "Great Britain",
+    "Event": "Men's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Athletics",
+    "Country": "Great Britain",
+    "Event": "Women's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Athletics",
+    "Country": "Great Britain",
+    "Event": "Women's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "India",
+    "Discipline": "Athletics",
+    "Country": "India",
+    "Event": "4 x 400m Relay Mixed"
+  },
+  {
+    "TeamName": "India",
+    "Discipline": "Athletics",
+    "Country": "India",
+    "Event": "Men's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Ireland",
+    "Discipline": "Athletics",
+    "Country": "Ireland",
+    "Event": "4 x 400m Relay Mixed"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Athletics",
+    "Country": "Italy",
+    "Event": "4 x 400m Relay Mixed"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Athletics",
+    "Country": "Italy",
+    "Event": "Men's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Athletics",
+    "Country": "Italy",
+    "Event": "Men's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Athletics",
+    "Country": "Italy",
+    "Event": "Women's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Athletics",
+    "Country": "Italy",
+    "Event": "Women's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Jamaica",
+    "Discipline": "Athletics",
+    "Country": "Jamaica",
+    "Event": "4 x 400m Relay Mixed"
+  },
+  {
+    "TeamName": "Jamaica",
+    "Discipline": "Athletics",
+    "Country": "Jamaica",
+    "Event": "Men's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Jamaica",
+    "Discipline": "Athletics",
+    "Country": "Jamaica",
+    "Event": "Men's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Jamaica",
+    "Discipline": "Athletics",
+    "Country": "Jamaica",
+    "Event": "Women's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Jamaica",
+    "Discipline": "Athletics",
+    "Country": "Jamaica",
+    "Event": "Women's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Athletics",
+    "Country": "Japan",
+    "Event": "Men's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Athletics",
+    "Country": "Japan",
+    "Event": "Men's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Athletics",
+    "Country": "Japan",
+    "Event": "Women's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Athletics",
+    "Country": "Netherlands",
+    "Event": "4 x 400m Relay Mixed"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Athletics",
+    "Country": "Netherlands",
+    "Event": "Men's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Athletics",
+    "Country": "Netherlands",
+    "Event": "Men's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Athletics",
+    "Country": "Netherlands",
+    "Event": "Women's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Athletics",
+    "Country": "Netherlands",
+    "Event": "Women's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Nigeria",
+    "Discipline": "Athletics",
+    "Country": "Nigeria",
+    "Event": "4 x 400m Relay Mixed"
+  },
+  {
+    "TeamName": "Nigeria",
+    "Discipline": "Athletics",
+    "Country": "Nigeria",
+    "Event": "Women's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Athletics",
+    "Country": "Poland",
+    "Event": "4 x 400m Relay Mixed"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Athletics",
+    "Country": "Poland",
+    "Event": "Men's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Athletics",
+    "Country": "Poland",
+    "Event": "Women's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Athletics",
+    "Country": "Poland",
+    "Event": "Women's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "South Africa",
+    "Discipline": "Athletics",
+    "Country": "South Africa",
+    "Event": "Men's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "South Africa",
+    "Discipline": "Athletics",
+    "Country": "South Africa",
+    "Event": "Men's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Athletics",
+    "Country": "Spain",
+    "Event": "4 x 400m Relay Mixed"
+  },
+  {
+    "TeamName": "Switzerland",
+    "Discipline": "Athletics",
+    "Country": "Switzerland",
+    "Event": "Women's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Switzerland",
+    "Discipline": "Athletics",
+    "Country": "Switzerland",
+    "Event": "Women's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Trinidad & Tobago",
+    "Discipline": "Athletics",
+    "Country": "Trinidad and Tobago",
+    "Event": "Men's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Trinidad & Tobago",
+    "Discipline": "Athletics",
+    "Country": "Trinidad and Tobago",
+    "Event": "Men's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Trinidad & Tobago",
+    "Discipline": "Athletics",
+    "Country": "Trinidad and Tobago",
+    "Event": "Women's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Turkey",
+    "Discipline": "Athletics",
+    "Country": "Turkey",
+    "Event": "Men's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "Ukraine",
+    "Discipline": "Athletics",
+    "Country": "Ukraine",
+    "Event": "4 x 400m Relay Mixed"
+  },
+  {
+    "TeamName": "Ukraine",
+    "Discipline": "Athletics",
+    "Country": "Ukraine",
+    "Event": "Women's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Athletics",
+    "Country": "United States of America",
+    "Event": "4 x 400m Relay Mixed"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Athletics",
+    "Country": "United States of America",
+    "Event": "Men's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Athletics",
+    "Country": "United States of America",
+    "Event": "Men's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Athletics",
+    "Country": "United States of America",
+    "Event": "Women's 4 x 100m Relay"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Athletics",
+    "Country": "United States of America",
+    "Event": "Women's 4 x 400m Relay"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Baseball/Softball",
+    "Country": "Australia",
+    "Event": "Softball"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Baseball/Softball",
+    "Country": "Canada",
+    "Event": "Softball"
+  },
+  {
+    "TeamName": "Dominican Rep.",
+    "Discipline": "Baseball/Softball",
+    "Country": "Dominican Republic",
+    "Event": "Baseball"
+  },
+  {
+    "TeamName": "Israel",
+    "Discipline": "Baseball/Softball",
+    "Country": "Israel",
+    "Event": "Baseball"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Baseball/Softball",
+    "Country": "Italy",
+    "Event": "Softball"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Baseball/Softball",
+    "Country": "Japan",
+    "Event": "Baseball"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Baseball/Softball",
+    "Country": "Japan",
+    "Event": "Softball"
+  },
+  {
+    "TeamName": "Mexico",
+    "Discipline": "Baseball/Softball",
+    "Country": "Mexico",
+    "Event": "Baseball"
+  },
+  {
+    "TeamName": "Mexico",
+    "Discipline": "Baseball/Softball",
+    "Country": "Mexico",
+    "Event": "Softball"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Baseball/Softball",
+    "Country": "Republic of Korea",
+    "Event": "Baseball"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Baseball/Softball",
+    "Country": "United States of America",
+    "Event": "Baseball"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Baseball/Softball",
+    "Country": "United States of America",
+    "Event": "Softball"
+  },
+  {
+    "TeamName": "Argentina",
+    "Discipline": "Basketball",
+    "Country": "Argentina",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Basketball",
+    "Country": "Australia",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Basketball",
+    "Country": "Australia",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Belgium",
+    "Discipline": "Basketball",
+    "Country": "Belgium",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Basketball",
+    "Country": "Canada",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Basketball",
+    "Country": "People's Republic of China",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Czech Republic",
+    "Discipline": "Basketball",
+    "Country": "Czech Republic",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Basketball",
+    "Country": "France",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Basketball",
+    "Country": "France",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Basketball",
+    "Country": "Germany",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Islamic Rep. of Iran",
+    "Discipline": "Basketball",
+    "Country": "Islamic Republic of Iran",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Basketball",
+    "Country": "Italy",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Basketball",
+    "Country": "Japan",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Basketball",
+    "Country": "Japan",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Nigeria",
+    "Discipline": "Basketball",
+    "Country": "Nigeria",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Nigeria",
+    "Discipline": "Basketball",
+    "Country": "Nigeria",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Puerto Rico",
+    "Discipline": "Basketball",
+    "Country": "Puerto Rico",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Basketball",
+    "Country": "Republic of Korea",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Serbia",
+    "Discipline": "Basketball",
+    "Country": "Serbia",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Slovenia",
+    "Discipline": "Basketball",
+    "Country": "Slovenia",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Basketball",
+    "Country": "Spain",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Basketball",
+    "Country": "Spain",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Basketball",
+    "Country": "United States of America",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Basketball",
+    "Country": "United States of America",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Azaad/Capogrosso",
+    "Discipline": "Beach Volleyball",
+    "Country": "Argentina",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Gallay/Pereyra",
+    "Discipline": "Beach Volleyball",
+    "Country": "Argentina",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "McHugh/Schumann",
+    "Discipline": "Beach Volleyball",
+    "Country": "Australia",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Artacho Del Solar/Clancy",
+    "Discipline": "Beach Volleyball",
+    "Country": "Australia",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Alison/Alvaro Filho",
+    "Discipline": "Beach Volleyball",
+    "Country": "Brazil",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Evandro/Bruno Schmidt",
+    "Discipline": "Beach Volleyball",
+    "Country": "Brazil",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Ana Patricia/Rebecca",
+    "Discipline": "Beach Volleyball",
+    "Country": "Brazil",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Agatha/Duda",
+    "Discipline": "Beach Volleyball",
+    "Country": "Brazil",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Bansley/Brandie",
+    "Discipline": "Beach Volleyball",
+    "Country": "Canada",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Pavan/Melissa",
+    "Discipline": "Beach Volleyball",
+    "Country": "Canada",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Grimalt M./Grimalt E.",
+    "Discipline": "Beach Volleyball",
+    "Country": "Chile",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Wang/X.Y.Xia",
+    "Discipline": "Beach Volleyball",
+    "Country": "People's Republic of China",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Xue/Wang X.X.",
+    "Discipline": "Beach Volleyball",
+    "Country": "People's Republic of China",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Lidy/Leila",
+    "Discipline": "Beach Volleyball",
+    "Country": "Cuba",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Perusic/Schweiner",
+    "Discipline": "Beach Volleyball",
+    "Country": "Czech Republic",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Hermannova/Slukova",
+    "Discipline": "Beach Volleyball",
+    "Country": "Czech Republic",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Thole J./Wickler",
+    "Discipline": "Beach Volleyball",
+    "Country": "Germany",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Ludwig/Kozuch",
+    "Discipline": "Beach Volleyball",
+    "Country": "Germany",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Sude/Borger",
+    "Discipline": "Beach Volleyball",
+    "Country": "Germany",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Nicolai/Lupo",
+    "Discipline": "Beach Volleyball",
+    "Country": "Italy",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Carambula/Rossi",
+    "Discipline": "Beach Volleyball",
+    "Country": "Italy",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Menegatti/Orsi Toth",
+    "Discipline": "Beach Volleyball",
+    "Country": "Italy",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Gottsu/Shiratori",
+    "Discipline": "Beach Volleyball",
+    "Country": "Japan",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Ishii/Murakami",
+    "Discipline": "Beach Volleyball",
+    "Country": "Japan",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Makokha/Khadambi",
+    "Discipline": "Beach Volleyball",
+    "Country": "Kenya",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Plavins/Tocs",
+    "Discipline": "Beach Volleyball",
+    "Country": "Latvia",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Graudina/Kravcenoka",
+    "Discipline": "Beach Volleyball",
+    "Country": "Latvia",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Gaxiola/Rubio",
+    "Discipline": "Beach Volleyball",
+    "Country": "Mexico",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Abicha/Elgraoui",
+    "Discipline": "Beach Volleyball",
+    "Country": "Morocco",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Brouwer/Meeuwsen",
+    "Discipline": "Beach Volleyball",
+    "Country": "Netherlands",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Keizer/Meppelink",
+    "Discipline": "Beach Volleyball",
+    "Country": "Netherlands",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Stam/Schoon",
+    "Discipline": "Beach Volleyball",
+    "Country": "Netherlands",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Mol A./Sorum C.",
+    "Discipline": "Beach Volleyball",
+    "Country": "Norway",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Bryl/Fijalek",
+    "Discipline": "Beach Volleyball",
+    "Country": "Poland",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Kantor/Losiak",
+    "Discipline": "Beach Volleyball",
+    "Country": "Poland",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Cherif/Ahmed",
+    "Discipline": "Beach Volleyball",
+    "Country": "Qatar",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Krasilnikov/Stoyanovskiy",
+    "Discipline": "Beach Volleyball",
+    "Country": "ROC",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Leshukov/Semenov",
+    "Discipline": "Beach Volleyball",
+    "Country": "ROC",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Makroguzova/Kholomina",
+    "Discipline": "Beach Volleyball",
+    "Country": "ROC",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Herrera/Gavira",
+    "Discipline": "Beach Volleyball",
+    "Country": "Spain",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Liliana/Elsa",
+    "Discipline": "Beach Volleyball",
+    "Country": "Spain",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Heidrich/Gerson",
+    "Discipline": "Beach Volleyball",
+    "Country": "Switzerland",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Huberli/Betschart",
+    "Discipline": "Beach Volleyball",
+    "Country": "Switzerland",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Verge-Depre, A./Heidrich",
+    "Discipline": "Beach Volleyball",
+    "Country": "Switzerland",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Gibb/Bourne",
+    "Discipline": "Beach Volleyball",
+    "Country": "United States of America",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Lucena/Dalhausser",
+    "Discipline": "Beach Volleyball",
+    "Country": "United States of America",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "April/Alix",
+    "Discipline": "Beach Volleyball",
+    "Country": "United States of America",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Claes/Sponcil",
+    "Discipline": "Beach Volleyball",
+    "Country": "United States of America",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Cycling Track",
+    "Country": "Australia",
+    "Event": "Men's Madison"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Cycling Track",
+    "Country": "Australia",
+    "Event": "Men's Team Pursuit"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Cycling Track",
+    "Country": "Australia",
+    "Event": "Men's Team Sprint"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Cycling Track",
+    "Country": "Australia",
+    "Event": "Women's Madison"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Cycling Track",
+    "Country": "Australia",
+    "Event": "Women's Team Pursuit"
+  },
+  {
+    "TeamName": "Austria",
+    "Discipline": "Cycling Track",
+    "Country": "Austria",
+    "Event": "Men's Madison"
+  },
+  {
+    "TeamName": "Belgium",
+    "Discipline": "Cycling Track",
+    "Country": "Belgium",
+    "Event": "Men's Madison"
+  },
+  {
+    "TeamName": "Belgium",
+    "Discipline": "Cycling Track",
+    "Country": "Belgium",
+    "Event": "Women's Madison"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Cycling Track",
+    "Country": "Canada",
+    "Event": "Men's Madison"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Cycling Track",
+    "Country": "Canada",
+    "Event": "Men's Team Pursuit"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Cycling Track",
+    "Country": "Canada",
+    "Event": "Women's Madison"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Cycling Track",
+    "Country": "Canada",
+    "Event": "Women's Team Pursuit"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Cycling Track",
+    "Country": "People's Republic of China",
+    "Event": "Women's Team Sprint"
+  },
+  {
+    "TeamName": "Denmark",
+    "Discipline": "Cycling Track",
+    "Country": "Denmark",
+    "Event": "Men's Madison"
+  },
+  {
+    "TeamName": "Denmark",
+    "Discipline": "Cycling Track",
+    "Country": "Denmark",
+    "Event": "Men's Team Pursuit"
+  },
+  {
+    "TeamName": "Denmark",
+    "Discipline": "Cycling Track",
+    "Country": "Denmark",
+    "Event": "Women's Madison"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Cycling Track",
+    "Country": "France",
+    "Event": "Men's Madison"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Cycling Track",
+    "Country": "France",
+    "Event": "Men's Team Sprint"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Cycling Track",
+    "Country": "France",
+    "Event": "Women's Madison"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Cycling Track",
+    "Country": "France",
+    "Event": "Women's Team Pursuit"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Cycling Track",
+    "Country": "Germany",
+    "Event": "Men's Madison"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Cycling Track",
+    "Country": "Germany",
+    "Event": "Men's Team Pursuit"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Cycling Track",
+    "Country": "Germany",
+    "Event": "Men's Team Sprint"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Cycling Track",
+    "Country": "Germany",
+    "Event": "Women's Madison"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Cycling Track",
+    "Country": "Germany",
+    "Event": "Women's Team Pursuit"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Cycling Track",
+    "Country": "Germany",
+    "Event": "Women's Team Sprint"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Cycling Track",
+    "Country": "Great Britain",
+    "Event": "Men's Madison"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Cycling Track",
+    "Country": "Great Britain",
+    "Event": "Men's Team Pursuit"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Cycling Track",
+    "Country": "Great Britain",
+    "Event": "Men's Team Sprint"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Cycling Track",
+    "Country": "Great Britain",
+    "Event": "Women's Madison"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Cycling Track",
+    "Country": "Great Britain",
+    "Event": "Women's Team Pursuit"
+  },
+  {
+    "TeamName": "Hong Kong, China",
+    "Discipline": "Cycling Track",
+    "Country": "Hong Kong, China",
+    "Event": "Women's Madison"
+  },
+  {
+    "TeamName": "Ireland",
+    "Discipline": "Cycling Track",
+    "Country": "Ireland",
+    "Event": "Men's Madison"
+  },
+  {
+    "TeamName": "Ireland",
+    "Discipline": "Cycling Track",
+    "Country": "Ireland",
+    "Event": "Women's Madison"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Cycling Track",
+    "Country": "Italy",
+    "Event": "Men's Madison"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Cycling Track",
+    "Country": "Italy",
+    "Event": "Men's Team Pursuit"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Cycling Track",
+    "Country": "Italy",
+    "Event": "Women's Madison"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Cycling Track",
+    "Country": "Italy",
+    "Event": "Women's Team Pursuit"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Cycling Track",
+    "Country": "Japan",
+    "Event": "Women's Madison"
+  },
+  {
+    "TeamName": "Lithuania",
+    "Discipline": "Cycling Track",
+    "Country": "Lithuania",
+    "Event": "Women's Team Sprint"
+  },
+  {
+    "TeamName": "Mexico",
+    "Discipline": "Cycling Track",
+    "Country": "Mexico",
+    "Event": "Women's Team Sprint"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Cycling Track",
+    "Country": "Netherlands",
+    "Event": "Men's Madison"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Cycling Track",
+    "Country": "Netherlands",
+    "Event": "Men's Team Sprint"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Cycling Track",
+    "Country": "Netherlands",
+    "Event": "Women's Madison"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Cycling Track",
+    "Country": "Netherlands",
+    "Event": "Women's Team Sprint"
+  },
+  {
+    "TeamName": "New Zealand",
+    "Discipline": "Cycling Track",
+    "Country": "New Zealand",
+    "Event": "Men's Madison"
+  },
+  {
+    "TeamName": "New Zealand",
+    "Discipline": "Cycling Track",
+    "Country": "New Zealand",
+    "Event": "Men's Team Pursuit"
+  },
+  {
+    "TeamName": "New Zealand",
+    "Discipline": "Cycling Track",
+    "Country": "New Zealand",
+    "Event": "Men's Team Sprint"
+  },
+  {
+    "TeamName": "New Zealand",
+    "Discipline": "Cycling Track",
+    "Country": "New Zealand",
+    "Event": "Women's Madison"
+  },
+  {
+    "TeamName": "New Zealand",
+    "Discipline": "Cycling Track",
+    "Country": "New Zealand",
+    "Event": "Women's Team Pursuit"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Cycling Track",
+    "Country": "Poland",
+    "Event": "Men's Madison"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Cycling Track",
+    "Country": "Poland",
+    "Event": "Men's Team Sprint"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Cycling Track",
+    "Country": "Poland",
+    "Event": "Women's Madison"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Cycling Track",
+    "Country": "Poland",
+    "Event": "Women's Team Sprint"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Cycling Track",
+    "Country": "ROC",
+    "Event": "Men's Team Sprint"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Cycling Track",
+    "Country": "ROC",
+    "Event": "Women's Madison"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Cycling Track",
+    "Country": "ROC",
+    "Event": "Women's Team Sprint"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Cycling Track",
+    "Country": "Spain",
+    "Event": "Men's Madison"
+  },
+  {
+    "TeamName": "Switzerland",
+    "Discipline": "Cycling Track",
+    "Country": "Switzerland",
+    "Event": "Men's Madison"
+  },
+  {
+    "TeamName": "Switzerland",
+    "Discipline": "Cycling Track",
+    "Country": "Switzerland",
+    "Event": "Men's Team Pursuit"
+  },
+  {
+    "TeamName": "Ukraine",
+    "Discipline": "Cycling Track",
+    "Country": "Ukraine",
+    "Event": "Women's Team Sprint"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Cycling Track",
+    "Country": "United States of America",
+    "Event": "Men's Madison"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Cycling Track",
+    "Country": "United States of America",
+    "Event": "Women's Madison"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Cycling Track",
+    "Country": "United States of America",
+    "Event": "Women's Team Pursuit"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Fencing",
+    "Country": "Canada",
+    "Event": "Men's Foil Team"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Fencing",
+    "Country": "Canada",
+    "Event": "Women's Foil Team"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Fencing",
+    "Country": "People's Republic of China",
+    "Event": "Men's �p�e Team"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Fencing",
+    "Country": "People's Republic of China",
+    "Event": "Women's �p�e Team"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Fencing",
+    "Country": "People's Republic of China",
+    "Event": "Women's Sabre Team"
+  },
+  {
+    "TeamName": "Egypt",
+    "Discipline": "Fencing",
+    "Country": "Egypt",
+    "Event": "Men's Foil Team"
+  },
+  {
+    "TeamName": "Egypt",
+    "Discipline": "Fencing",
+    "Country": "Egypt",
+    "Event": "Men's Sabre Team"
+  },
+  {
+    "TeamName": "Egypt",
+    "Discipline": "Fencing",
+    "Country": "Egypt",
+    "Event": "Women's Foil Team"
+  },
+  {
+    "TeamName": "Estonia",
+    "Discipline": "Fencing",
+    "Country": "Estonia",
+    "Event": "Women's �p�e Team"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Fencing",
+    "Country": "France",
+    "Event": "Men's �p�e Team"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Fencing",
+    "Country": "France",
+    "Event": "Men's Foil Team"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Fencing",
+    "Country": "France",
+    "Event": "Women's Foil Team"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Fencing",
+    "Country": "France",
+    "Event": "Women's Sabre Team"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Fencing",
+    "Country": "Germany",
+    "Event": "Men's Foil Team"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Fencing",
+    "Country": "Germany",
+    "Event": "Men's Sabre Team"
+  },
+  {
+    "TeamName": "Hong Kong, China",
+    "Discipline": "Fencing",
+    "Country": "Hong Kong, China",
+    "Event": "Men's Foil Team"
+  },
+  {
+    "TeamName": "Hong Kong, China",
+    "Discipline": "Fencing",
+    "Country": "Hong Kong, China",
+    "Event": "Women's �p�e Team"
+  },
+  {
+    "TeamName": "Hungary",
+    "Discipline": "Fencing",
+    "Country": "Hungary",
+    "Event": "Men's Sabre Team"
+  },
+  {
+    "TeamName": "Hungary",
+    "Discipline": "Fencing",
+    "Country": "Hungary",
+    "Event": "Women's Foil Team"
+  },
+  {
+    "TeamName": "Hungary",
+    "Discipline": "Fencing",
+    "Country": "Hungary",
+    "Event": "Women's Sabre Team"
+  },
+  {
+    "TeamName": "Islamic Rep. of Iran",
+    "Discipline": "Fencing",
+    "Country": "Islamic Republic of Iran",
+    "Event": "Men's Sabre Team"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Fencing",
+    "Country": "Italy",
+    "Event": "Men's �p�e Team"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Fencing",
+    "Country": "Italy",
+    "Event": "Men's Foil Team"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Fencing",
+    "Country": "Italy",
+    "Event": "Men's Sabre Team"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Fencing",
+    "Country": "Italy",
+    "Event": "Women's �p�e Team"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Fencing",
+    "Country": "Italy",
+    "Event": "Women's Foil Team"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Fencing",
+    "Country": "Italy",
+    "Event": "Women's Sabre Team"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Fencing",
+    "Country": "Japan",
+    "Event": "Men's �p�e Team"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Fencing",
+    "Country": "Japan",
+    "Event": "Men's Foil Team"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Fencing",
+    "Country": "Japan",
+    "Event": "Men's Sabre Team"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Fencing",
+    "Country": "Japan",
+    "Event": "Women's Foil Team"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Fencing",
+    "Country": "Japan",
+    "Event": "Women's Sabre Team"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Fencing",
+    "Country": "Poland",
+    "Event": "Women's �p�e Team"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Fencing",
+    "Country": "Republic of Korea",
+    "Event": "Men's �p�e Team"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Fencing",
+    "Country": "Republic of Korea",
+    "Event": "Men's Sabre Team"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Fencing",
+    "Country": "Republic of Korea",
+    "Event": "Women's �p�e Team"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Fencing",
+    "Country": "Republic of Korea",
+    "Event": "Women's Sabre Team"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Fencing",
+    "Country": "ROC",
+    "Event": "Men's �p�e Team"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Fencing",
+    "Country": "ROC",
+    "Event": "Men's Foil Team"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Fencing",
+    "Country": "ROC",
+    "Event": "Men's Sabre Team"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Fencing",
+    "Country": "ROC",
+    "Event": "Women's �p�e Team"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Fencing",
+    "Country": "ROC",
+    "Event": "Women's Foil Team"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Fencing",
+    "Country": "ROC",
+    "Event": "Women's Sabre Team"
+  },
+  {
+    "TeamName": "Switzerland",
+    "Discipline": "Fencing",
+    "Country": "Switzerland",
+    "Event": "Men's �p�e Team"
+  },
+  {
+    "TeamName": "Tunisia",
+    "Discipline": "Fencing",
+    "Country": "Tunisia",
+    "Event": "Women's Sabre Team"
+  },
+  {
+    "TeamName": "Ukraine",
+    "Discipline": "Fencing",
+    "Country": "Ukraine",
+    "Event": "Men's �p�e Team"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Fencing",
+    "Country": "United States of America",
+    "Event": "Men's �p�e Team"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Fencing",
+    "Country": "United States of America",
+    "Event": "Men's Foil Team"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Fencing",
+    "Country": "United States of America",
+    "Event": "Men's Sabre Team"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Fencing",
+    "Country": "United States of America",
+    "Event": "Women's �p�e Team"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Fencing",
+    "Country": "United States of America",
+    "Event": "Women's Foil Team"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Fencing",
+    "Country": "United States of America",
+    "Event": "Women's Sabre Team"
+  },
+  {
+    "TeamName": "Argentina",
+    "Discipline": "Football",
+    "Country": "Argentina",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Football",
+    "Country": "Australia",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Football",
+    "Country": "Australia",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Football",
+    "Country": "Brazil",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Football",
+    "Country": "Brazil",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Football",
+    "Country": "Canada",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Chile",
+    "Discipline": "Football",
+    "Country": "Chile",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Football",
+    "Country": "People's Republic of China",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "C�te d�Ivoire",
+    "Discipline": "Football",
+    "Country": "C�te d'Ivoire",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Egypt",
+    "Discipline": "Football",
+    "Country": "Egypt",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Football",
+    "Country": "France",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Football",
+    "Country": "Germany",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Football",
+    "Country": "Great Britain",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Honduras",
+    "Discipline": "Football",
+    "Country": "Honduras",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Football",
+    "Country": "Japan",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Football",
+    "Country": "Japan",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Mexico",
+    "Discipline": "Football",
+    "Country": "Mexico",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Football",
+    "Country": "Netherlands",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "New Zealand",
+    "Discipline": "Football",
+    "Country": "New Zealand",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "New Zealand",
+    "Discipline": "Football",
+    "Country": "New Zealand",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Football",
+    "Country": "Republic of Korea",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Romania",
+    "Discipline": "Football",
+    "Country": "Romania",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Saudi Arabia",
+    "Discipline": "Football",
+    "Country": "Saudi Arabia",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "South Africa",
+    "Discipline": "Football",
+    "Country": "South Africa",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Football",
+    "Country": "Spain",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Sweden",
+    "Discipline": "Football",
+    "Country": "Sweden",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Football",
+    "Country": "United States of America",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Zambia",
+    "Discipline": "Football",
+    "Country": "Zambia",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Angola",
+    "Discipline": "Handball",
+    "Country": "Angola",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Argentina",
+    "Discipline": "Handball",
+    "Country": "Argentina",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Bahrain",
+    "Discipline": "Handball",
+    "Country": "Bahrain",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Handball",
+    "Country": "Brazil",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Handball",
+    "Country": "Brazil",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Denmark",
+    "Discipline": "Handball",
+    "Country": "Denmark",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Egypt",
+    "Discipline": "Handball",
+    "Country": "Egypt",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Handball",
+    "Country": "France",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Handball",
+    "Country": "France",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Handball",
+    "Country": "Germany",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Hungary",
+    "Discipline": "Handball",
+    "Country": "Hungary",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Handball",
+    "Country": "Japan",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Handball",
+    "Country": "Japan",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Montenegro",
+    "Discipline": "Handball",
+    "Country": "Montenegro",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Handball",
+    "Country": "Netherlands",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Norway",
+    "Discipline": "Handball",
+    "Country": "Norway",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Norway",
+    "Discipline": "Handball",
+    "Country": "Norway",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Portugal",
+    "Discipline": "Handball",
+    "Country": "Portugal",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Handball",
+    "Country": "Republic of Korea",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Handball",
+    "Country": "ROC",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Handball",
+    "Country": "Spain",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Handball",
+    "Country": "Spain",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Sweden",
+    "Discipline": "Handball",
+    "Country": "Sweden",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Sweden",
+    "Discipline": "Handball",
+    "Country": "Sweden",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Argentina",
+    "Discipline": "Hockey",
+    "Country": "Argentina",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Argentina",
+    "Discipline": "Hockey",
+    "Country": "Argentina",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Hockey",
+    "Country": "Australia",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Hockey",
+    "Country": "Australia",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Belgium",
+    "Discipline": "Hockey",
+    "Country": "Belgium",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Hockey",
+    "Country": "Canada",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Hockey",
+    "Country": "People's Republic of China",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Hockey",
+    "Country": "Germany",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Hockey",
+    "Country": "Germany",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Hockey",
+    "Country": "Great Britain",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Hockey",
+    "Country": "Great Britain",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "India",
+    "Discipline": "Hockey",
+    "Country": "India",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "India",
+    "Discipline": "Hockey",
+    "Country": "India",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Ireland",
+    "Discipline": "Hockey",
+    "Country": "Ireland",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Hockey",
+    "Country": "Japan",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Hockey",
+    "Country": "Japan",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Hockey",
+    "Country": "Netherlands",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Hockey",
+    "Country": "Netherlands",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "New Zealand",
+    "Discipline": "Hockey",
+    "Country": "New Zealand",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "New Zealand",
+    "Discipline": "Hockey",
+    "Country": "New Zealand",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "South Africa",
+    "Discipline": "Hockey",
+    "Country": "South Africa",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "South Africa",
+    "Discipline": "Hockey",
+    "Country": "South Africa",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Hockey",
+    "Country": "Spain",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Hockey",
+    "Country": "Spain",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Rhythmic Gymnastics",
+    "Country": "Australia",
+    "Event": "Group All-Around"
+  },
+  {
+    "TeamName": "Azerbaijan",
+    "Discipline": "Rhythmic Gymnastics",
+    "Country": "Azerbaijan",
+    "Event": "Group All-Around"
+  },
+  {
+    "TeamName": "Belarus",
+    "Discipline": "Rhythmic Gymnastics",
+    "Country": "Belarus",
+    "Event": "Group All-Around"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Rhythmic Gymnastics",
+    "Country": "Brazil",
+    "Event": "Group All-Around"
+  },
+  {
+    "TeamName": "Bulgaria",
+    "Discipline": "Rhythmic Gymnastics",
+    "Country": "Bulgaria",
+    "Event": "Group All-Around"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Rhythmic Gymnastics",
+    "Country": "People's Republic of China",
+    "Event": "Group All-Around"
+  },
+  {
+    "TeamName": "Egypt",
+    "Discipline": "Rhythmic Gymnastics",
+    "Country": "Egypt",
+    "Event": "Group All-Around"
+  },
+  {
+    "TeamName": "Israel",
+    "Discipline": "Rhythmic Gymnastics",
+    "Country": "Israel",
+    "Event": "Group All-Around"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Rhythmic Gymnastics",
+    "Country": "Italy",
+    "Event": "Group All-Around"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Rhythmic Gymnastics",
+    "Country": "Japan",
+    "Event": "Group All-Around"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Rhythmic Gymnastics",
+    "Country": "ROC",
+    "Event": "Group All-Around"
+  },
+  {
+    "TeamName": "Ukraine",
+    "Discipline": "Rhythmic Gymnastics",
+    "Country": "Ukraine",
+    "Event": "Group All-Around"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Rhythmic Gymnastics",
+    "Country": "United States of America",
+    "Event": "Group All-Around"
+  },
+  {
+    "TeamName": "Uzbekistan",
+    "Discipline": "Rhythmic Gymnastics",
+    "Country": "Uzbekistan",
+    "Event": "Group All-Around"
+  },
+  {
+    "TeamName": "Argentina",
+    "Discipline": "Rugby Sevens",
+    "Country": "Argentina",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Rugby Sevens",
+    "Country": "Australia",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Rugby Sevens",
+    "Country": "Australia",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Rugby Sevens",
+    "Country": "Brazil",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Rugby Sevens",
+    "Country": "Canada",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Rugby Sevens",
+    "Country": "Canada",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Rugby Sevens",
+    "Country": "People's Republic of China",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Fiji",
+    "Discipline": "Rugby Sevens",
+    "Country": "Fiji",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Fiji",
+    "Discipline": "Rugby Sevens",
+    "Country": "Fiji",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Rugby Sevens",
+    "Country": "France",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Rugby Sevens",
+    "Country": "Great Britain",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Rugby Sevens",
+    "Country": "Great Britain",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Ireland",
+    "Discipline": "Rugby Sevens",
+    "Country": "Ireland",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Rugby Sevens",
+    "Country": "Japan",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Rugby Sevens",
+    "Country": "Japan",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Kenya",
+    "Discipline": "Rugby Sevens",
+    "Country": "Kenya",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Kenya",
+    "Discipline": "Rugby Sevens",
+    "Country": "Kenya",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "New Zealand",
+    "Discipline": "Rugby Sevens",
+    "Country": "New Zealand",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "New Zealand",
+    "Discipline": "Rugby Sevens",
+    "Country": "New Zealand",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Rugby Sevens",
+    "Country": "Republic of Korea",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Rugby Sevens",
+    "Country": "ROC",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "South Africa",
+    "Discipline": "Rugby Sevens",
+    "Country": "South Africa",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Rugby Sevens",
+    "Country": "United States of America",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Rugby Sevens",
+    "Country": "United States of America",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Swimming",
+    "Country": "Australia",
+    "Event": "Men's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Swimming",
+    "Country": "Australia",
+    "Event": "Men's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Swimming",
+    "Country": "Australia",
+    "Event": "Men's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Swimming",
+    "Country": "Australia",
+    "Event": "Mixed 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Swimming",
+    "Country": "Australia",
+    "Event": "Women's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Swimming",
+    "Country": "Australia",
+    "Event": "Women's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Swimming",
+    "Country": "Australia",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Belarus",
+    "Discipline": "Swimming",
+    "Country": "Belarus",
+    "Event": "Men's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Belarus",
+    "Discipline": "Swimming",
+    "Country": "Belarus",
+    "Event": "Mixed 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Belarus",
+    "Discipline": "Swimming",
+    "Country": "Belarus",
+    "Event": "Women's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Swimming",
+    "Country": "Brazil",
+    "Event": "Men's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Swimming",
+    "Country": "Brazil",
+    "Event": "Men's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Swimming",
+    "Country": "Brazil",
+    "Event": "Men's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Swimming",
+    "Country": "Brazil",
+    "Event": "Mixed 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Swimming",
+    "Country": "Brazil",
+    "Event": "Women's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Swimming",
+    "Country": "Brazil",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Swimming",
+    "Country": "Canada",
+    "Event": "Men's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Swimming",
+    "Country": "Canada",
+    "Event": "Men's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Swimming",
+    "Country": "Canada",
+    "Event": "Mixed 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Swimming",
+    "Country": "Canada",
+    "Event": "Women's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Swimming",
+    "Country": "Canada",
+    "Event": "Women's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Swimming",
+    "Country": "Canada",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Swimming",
+    "Country": "People's Republic of China",
+    "Event": "Men's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Swimming",
+    "Country": "People's Republic of China",
+    "Event": "Men's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Swimming",
+    "Country": "People's Republic of China",
+    "Event": "Mixed 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Swimming",
+    "Country": "People's Republic of China",
+    "Event": "Women's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Swimming",
+    "Country": "People's Republic of China",
+    "Event": "Women's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Swimming",
+    "Country": "People's Republic of China",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Czech Republic",
+    "Discipline": "Swimming",
+    "Country": "Czech Republic",
+    "Event": "Women's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Denmark",
+    "Discipline": "Swimming",
+    "Country": "Denmark",
+    "Event": "Women's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Denmark",
+    "Discipline": "Swimming",
+    "Country": "Denmark",
+    "Event": "Women's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Swimming",
+    "Country": "France",
+    "Event": "Men's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Swimming",
+    "Country": "France",
+    "Event": "Men's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Swimming",
+    "Country": "France",
+    "Event": "Men's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Swimming",
+    "Country": "France",
+    "Event": "Women's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Swimming",
+    "Country": "France",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Swimming",
+    "Country": "Germany",
+    "Event": "Men's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Swimming",
+    "Country": "Germany",
+    "Event": "Men's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Swimming",
+    "Country": "Germany",
+    "Event": "Men's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Swimming",
+    "Country": "Germany",
+    "Event": "Mixed 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Swimming",
+    "Country": "Germany",
+    "Event": "Women's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Swimming",
+    "Country": "Germany",
+    "Event": "Women's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Swimming",
+    "Country": "Germany",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Swimming",
+    "Country": "Great Britain",
+    "Event": "Men's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Swimming",
+    "Country": "Great Britain",
+    "Event": "Men's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Swimming",
+    "Country": "Great Britain",
+    "Event": "Men's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Swimming",
+    "Country": "Great Britain",
+    "Event": "Mixed 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Swimming",
+    "Country": "Great Britain",
+    "Event": "Women's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Swimming",
+    "Country": "Great Britain",
+    "Event": "Women's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Greece",
+    "Discipline": "Swimming",
+    "Country": "Greece",
+    "Event": "Men's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Greece",
+    "Discipline": "Swimming",
+    "Country": "Greece",
+    "Event": "Men's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Greece",
+    "Discipline": "Swimming",
+    "Country": "Greece",
+    "Event": "Mixed 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Hong Kong, China",
+    "Discipline": "Swimming",
+    "Country": "Hong Kong, China",
+    "Event": "Women's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Hong Kong, China",
+    "Discipline": "Swimming",
+    "Country": "Hong Kong, China",
+    "Event": "Women's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Hong Kong, China",
+    "Discipline": "Swimming",
+    "Country": "Hong Kong, China",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Hungary",
+    "Discipline": "Swimming",
+    "Country": "Hungary",
+    "Event": "Men's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Hungary",
+    "Discipline": "Swimming",
+    "Country": "Hungary",
+    "Event": "Men's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Hungary",
+    "Discipline": "Swimming",
+    "Country": "Hungary",
+    "Event": "Men's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Hungary",
+    "Discipline": "Swimming",
+    "Country": "Hungary",
+    "Event": "Mixed 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Hungary",
+    "Discipline": "Swimming",
+    "Country": "Hungary",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Ireland",
+    "Discipline": "Swimming",
+    "Country": "Ireland",
+    "Event": "Men's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Israel",
+    "Discipline": "Swimming",
+    "Country": "Israel",
+    "Event": "Men's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Israel",
+    "Discipline": "Swimming",
+    "Country": "Israel",
+    "Event": "Mixed 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Swimming",
+    "Country": "Italy",
+    "Event": "Men's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Swimming",
+    "Country": "Italy",
+    "Event": "Men's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Swimming",
+    "Country": "Italy",
+    "Event": "Men's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Swimming",
+    "Country": "Italy",
+    "Event": "Mixed 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Swimming",
+    "Country": "Italy",
+    "Event": "Women's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Swimming",
+    "Country": "Italy",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Swimming",
+    "Country": "Japan",
+    "Event": "Men's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Swimming",
+    "Country": "Japan",
+    "Event": "Men's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Swimming",
+    "Country": "Japan",
+    "Event": "Men's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Swimming",
+    "Country": "Japan",
+    "Event": "Mixed 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Swimming",
+    "Country": "Japan",
+    "Event": "Women's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Swimming",
+    "Country": "Japan",
+    "Event": "Women's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Swimming",
+    "Country": "Japan",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Lithuania",
+    "Discipline": "Swimming",
+    "Country": "Lithuania",
+    "Event": "Men's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Swimming",
+    "Country": "Netherlands",
+    "Event": "Men's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Swimming",
+    "Country": "Netherlands",
+    "Event": "Mixed 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Swimming",
+    "Country": "Netherlands",
+    "Event": "Women's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Swimming",
+    "Country": "Netherlands",
+    "Event": "Women's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "New Zealand",
+    "Discipline": "Swimming",
+    "Country": "New Zealand",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Swimming",
+    "Country": "Poland",
+    "Event": "Men's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Swimming",
+    "Country": "Poland",
+    "Event": "Men's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Swimming",
+    "Country": "Poland",
+    "Event": "Men's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Swimming",
+    "Country": "Poland",
+    "Event": "Mixed 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Swimming",
+    "Country": "Poland",
+    "Event": "Women's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Swimming",
+    "Country": "Poland",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Swimming",
+    "Country": "Republic of Korea",
+    "Event": "Men's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Swimming",
+    "Country": "Republic of Korea",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Swimming",
+    "Country": "ROC",
+    "Event": "Men's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Swimming",
+    "Country": "ROC",
+    "Event": "Men's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Swimming",
+    "Country": "ROC",
+    "Event": "Men's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Swimming",
+    "Country": "ROC",
+    "Event": "Mixed 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Swimming",
+    "Country": "ROC",
+    "Event": "Women's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Swimming",
+    "Country": "ROC",
+    "Event": "Women's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Swimming",
+    "Country": "ROC",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Serbia",
+    "Discipline": "Swimming",
+    "Country": "Serbia",
+    "Event": "Men's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "South Africa",
+    "Discipline": "Swimming",
+    "Country": "South Africa",
+    "Event": "Women's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "South Africa",
+    "Discipline": "Swimming",
+    "Country": "South Africa",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Swimming",
+    "Country": "Spain",
+    "Event": "Women's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Sweden",
+    "Discipline": "Swimming",
+    "Country": "Sweden",
+    "Event": "Women's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Sweden",
+    "Discipline": "Swimming",
+    "Country": "Sweden",
+    "Event": "Women's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "Switzerland",
+    "Discipline": "Swimming",
+    "Country": "Switzerland",
+    "Event": "Men's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "Switzerland",
+    "Discipline": "Swimming",
+    "Country": "Switzerland",
+    "Event": "Men's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Turkey",
+    "Discipline": "Swimming",
+    "Country": "Turkey",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Swimming",
+    "Country": "United States of America",
+    "Event": "Men's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Swimming",
+    "Country": "United States of America",
+    "Event": "Men's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Swimming",
+    "Country": "United States of America",
+    "Event": "Men's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Swimming",
+    "Country": "United States of America",
+    "Event": "Mixed 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Swimming",
+    "Country": "United States of America",
+    "Event": "Women's 4 x 100m Freestyle Relay"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Swimming",
+    "Country": "United States of America",
+    "Event": "Women's 4 x 100m Medley Relay"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Swimming",
+    "Country": "United States of America",
+    "Event": "Women's 4 x 200m Freestyle Relay"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Table Tennis",
+    "Country": "Australia",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "HU Heming / TAPPER Melissa",
+    "Discipline": "Table Tennis",
+    "Country": "Australia",
+    "Event": "Mixed Doubles"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Table Tennis",
+    "Country": "Australia",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "FEGERL Stefan / POLCANOVA Sofia",
+    "Discipline": "Table Tennis",
+    "Country": "Austria",
+    "Event": "Mixed Doubles"
+  },
+  {
+    "TeamName": "Austria",
+    "Discipline": "Table Tennis",
+    "Country": "Austria",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Table Tennis",
+    "Country": "Brazil",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Table Tennis",
+    "Country": "Brazil",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "WANG Zhen / ZHANG Mo",
+    "Discipline": "Table Tennis",
+    "Country": "Canada",
+    "Event": "Mixed Doubles"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Table Tennis",
+    "Country": "People's Republic of China",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "XU Xin / LIU Shiwen",
+    "Discipline": "Table Tennis",
+    "Country": "People's Republic of China",
+    "Event": "Mixed Doubles"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Table Tennis",
+    "Country": "People's Republic of China",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Chinese Taipei",
+    "Discipline": "Table Tennis",
+    "Country": "Chinese Taipei",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "LIN Yun Ju / CHENG I Ching",
+    "Discipline": "Table Tennis",
+    "Country": "Chinese Taipei",
+    "Event": "Mixed Doubles"
+  },
+  {
+    "TeamName": "Chinese Taipei",
+    "Discipline": "Table Tennis",
+    "Country": "Chinese Taipei",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Croatia",
+    "Discipline": "Table Tennis",
+    "Country": "Croatia",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "CAMPOS Jorge / FONSECA Daniela",
+    "Discipline": "Table Tennis",
+    "Country": "Cuba",
+    "Event": "Mixed Doubles"
+  },
+  {
+    "TeamName": "Egypt",
+    "Discipline": "Table Tennis",
+    "Country": "Egypt",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "ASSAR Omar / MESHREF Dina",
+    "Discipline": "Table Tennis",
+    "Country": "Egypt",
+    "Event": "Mixed Doubles"
+  },
+  {
+    "TeamName": "Egypt",
+    "Discipline": "Table Tennis",
+    "Country": "Egypt",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Table Tennis",
+    "Country": "France",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "LEBESSON Emmanuel / YUAN Jia Nan",
+    "Discipline": "Table Tennis",
+    "Country": "France",
+    "Event": "Mixed Doubles"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Table Tennis",
+    "Country": "France",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Table Tennis",
+    "Country": "Germany",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "FRANZISKA Patrick / SOLJA Petrissa",
+    "Discipline": "Table Tennis",
+    "Country": "Germany",
+    "Event": "Mixed Doubles"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Table Tennis",
+    "Country": "Germany",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Hong Kong, China",
+    "Discipline": "Table Tennis",
+    "Country": "Hong Kong, China",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "WONG Chun Ting / DOO Hoi Kem",
+    "Discipline": "Table Tennis",
+    "Country": "Hong Kong, China",
+    "Event": "Mixed Doubles"
+  },
+  {
+    "TeamName": "Hong Kong, China",
+    "Discipline": "Table Tennis",
+    "Country": "Hong Kong, China",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "SZUDI Adam / PERGEL Szandra",
+    "Discipline": "Table Tennis",
+    "Country": "Hungary",
+    "Event": "Mixed Doubles"
+  },
+  {
+    "TeamName": "Hungary",
+    "Discipline": "Table Tennis",
+    "Country": "Hungary",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "ACHANTA Kamal / BATRA Manika",
+    "Discipline": "Table Tennis",
+    "Country": "India",
+    "Event": "Mixed Doubles"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Table Tennis",
+    "Country": "Japan",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "MIZUTANI Jun / ITO Mima",
+    "Discipline": "Table Tennis",
+    "Country": "Japan",
+    "Event": "Mixed Doubles"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Table Tennis",
+    "Country": "Japan",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Table Tennis",
+    "Country": "Poland",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Portugal",
+    "Discipline": "Table Tennis",
+    "Country": "Portugal",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Table Tennis",
+    "Country": "Republic of Korea",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "LEE Sangsu / JEON Jihee",
+    "Discipline": "Table Tennis",
+    "Country": "Republic of Korea",
+    "Event": "Mixed Doubles"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Table Tennis",
+    "Country": "Republic of Korea",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "IONESCU Ovidiu / SZOCS Bernadette",
+    "Discipline": "Table Tennis",
+    "Country": "Romania",
+    "Event": "Mixed Doubles"
+  },
+  {
+    "TeamName": "Romania",
+    "Discipline": "Table Tennis",
+    "Country": "Romania",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Serbia",
+    "Discipline": "Table Tennis",
+    "Country": "Serbia",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Singapore",
+    "Discipline": "Table Tennis",
+    "Country": "Singapore",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "PISTEJ Lubomir / BALAZOVA Barbora",
+    "Discipline": "Table Tennis",
+    "Country": "Slovakia",
+    "Event": "Mixed Doubles"
+  },
+  {
+    "TeamName": "Slovenia",
+    "Discipline": "Table Tennis",
+    "Country": "Slovenia",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "Sweden",
+    "Discipline": "Table Tennis",
+    "Country": "Sweden",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Table Tennis",
+    "Country": "United States of America",
+    "Event": "Men's Team"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Table Tennis",
+    "Country": "United States of America",
+    "Event": "Women's Team"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Triathlon",
+    "Country": "Australia",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "Austria",
+    "Discipline": "Triathlon",
+    "Country": "Austria",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "Belgium",
+    "Discipline": "Triathlon",
+    "Country": "Belgium",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Triathlon",
+    "Country": "Canada",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Triathlon",
+    "Country": "France",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "Germany",
+    "Discipline": "Triathlon",
+    "Country": "Germany",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "Great Britain",
+    "Discipline": "Triathlon",
+    "Country": "Great Britain",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "Hungary",
+    "Discipline": "Triathlon",
+    "Country": "Hungary",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Triathlon",
+    "Country": "Italy",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Triathlon",
+    "Country": "Japan",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "Mexico",
+    "Discipline": "Triathlon",
+    "Country": "Mexico",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Triathlon",
+    "Country": "Netherlands",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "New Zealand",
+    "Discipline": "Triathlon",
+    "Country": "New Zealand",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Triathlon",
+    "Country": "ROC",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "South Africa",
+    "Discipline": "Triathlon",
+    "Country": "South Africa",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Triathlon",
+    "Country": "Spain",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "Switzerland",
+    "Discipline": "Triathlon",
+    "Country": "Switzerland",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Triathlon",
+    "Country": "United States of America",
+    "Event": "Mixed Relay"
+  },
+  {
+    "TeamName": "Argentina",
+    "Discipline": "Volleyball",
+    "Country": "Argentina",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Argentina",
+    "Discipline": "Volleyball",
+    "Country": "Argentina",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Volleyball",
+    "Country": "Brazil",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Brazil",
+    "Discipline": "Volleyball",
+    "Country": "Brazil",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Volleyball",
+    "Country": "Canada",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Volleyball",
+    "Country": "People's Republic of China",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Dominican Rep.",
+    "Discipline": "Volleyball",
+    "Country": "Dominican Republic",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "France",
+    "Discipline": "Volleyball",
+    "Country": "France",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Islamic Rep. of Iran",
+    "Discipline": "Volleyball",
+    "Country": "Islamic Republic of Iran",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Volleyball",
+    "Country": "Italy",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Volleyball",
+    "Country": "Italy",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Volleyball",
+    "Country": "Japan",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Volleyball",
+    "Country": "Japan",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Kenya",
+    "Discipline": "Volleyball",
+    "Country": "Kenya",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Poland",
+    "Discipline": "Volleyball",
+    "Country": "Poland",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Republic of Korea",
+    "Discipline": "Volleyball",
+    "Country": "Republic of Korea",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Volleyball",
+    "Country": "ROC",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Volleyball",
+    "Country": "ROC",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Serbia",
+    "Discipline": "Volleyball",
+    "Country": "Serbia",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Tunisia",
+    "Discipline": "Volleyball",
+    "Country": "Tunisia",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Turkey",
+    "Discipline": "Volleyball",
+    "Country": "Turkey",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Volleyball",
+    "Country": "United States of America",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Volleyball",
+    "Country": "United States of America",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Venezuela",
+    "Discipline": "Volleyball",
+    "Country": "Venezuela",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Water Polo",
+    "Country": "Australia",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Australia",
+    "Discipline": "Water Polo",
+    "Country": "Australia",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Canada",
+    "Discipline": "Water Polo",
+    "Country": "Canada",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "China",
+    "Discipline": "Water Polo",
+    "Country": "People's Republic of China",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Croatia",
+    "Discipline": "Water Polo",
+    "Country": "Croatia",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Greece",
+    "Discipline": "Water Polo",
+    "Country": "Greece",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Hungary",
+    "Discipline": "Water Polo",
+    "Country": "Hungary",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Hungary",
+    "Discipline": "Water Polo",
+    "Country": "Hungary",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Italy",
+    "Discipline": "Water Polo",
+    "Country": "Italy",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Water Polo",
+    "Country": "Japan",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Japan",
+    "Discipline": "Water Polo",
+    "Country": "Japan",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Kazakhstan",
+    "Discipline": "Water Polo",
+    "Country": "Kazakhstan",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Montenegro",
+    "Discipline": "Water Polo",
+    "Country": "Montenegro",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Netherlands",
+    "Discipline": "Water Polo",
+    "Country": "Netherlands",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "ROC",
+    "Discipline": "Water Polo",
+    "Country": "ROC",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Serbia",
+    "Discipline": "Water Polo",
+    "Country": "Serbia",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "South Africa",
+    "Discipline": "Water Polo",
+    "Country": "South Africa",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "South Africa",
+    "Discipline": "Water Polo",
+    "Country": "South Africa",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Water Polo",
+    "Country": "Spain",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "Spain",
+    "Discipline": "Water Polo",
+    "Country": "Spain",
+    "Event": "Women"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Water Polo",
+    "Country": "United States of America",
+    "Event": "Men"
+  },
+  {
+    "TeamName": "United States",
+    "Discipline": "Water Polo",
+    "Country": "United States of America",
+    "Event": "Women"
+  }
+]

@@ -1,0 +1,839 @@
+[
+  {
+    "Rank": 1,
+    "Team_Country": "United States of America",
+    "Gold": 39,
+    "Silver": 41,
+    "Bronze": 33,
+    "Total": 113,
+    "Rank by Total": 1
+  },
+  {
+    "Rank": 2,
+    "Team_Country": "People's Republic of China",
+    "Gold": 38,
+    "Silver": 32,
+    "Bronze": 18,
+    "Total": 88,
+    "Rank by Total": 2
+  },
+  {
+    "Rank": 3,
+    "Team_Country": "Japan",
+    "Gold": 27,
+    "Silver": 14,
+    "Bronze": 17,
+    "Total": 58,
+    "Rank by Total": 5
+  },
+  {
+    "Rank": 4,
+    "Team_Country": "Great Britain",
+    "Gold": 22,
+    "Silver": 21,
+    "Bronze": 22,
+    "Total": 65,
+    "Rank by Total": 4
+  },
+  {
+    "Rank": 5,
+    "Team_Country": "ROC",
+    "Gold": 20,
+    "Silver": 28,
+    "Bronze": 23,
+    "Total": 71,
+    "Rank by Total": 3
+  },
+  {
+    "Rank": 6,
+    "Team_Country": "Australia",
+    "Gold": 17,
+    "Silver": 7,
+    "Bronze": 22,
+    "Total": 46,
+    "Rank by Total": 6
+  },
+  {
+    "Rank": 7,
+    "Team_Country": "Netherlands",
+    "Gold": 10,
+    "Silver": 12,
+    "Bronze": 14,
+    "Total": 36,
+    "Rank by Total": 9
+  },
+  {
+    "Rank": 8,
+    "Team_Country": "France",
+    "Gold": 10,
+    "Silver": 12,
+    "Bronze": 11,
+    "Total": 33,
+    "Rank by Total": 10
+  },
+  {
+    "Rank": 9,
+    "Team_Country": "Germany",
+    "Gold": 10,
+    "Silver": 11,
+    "Bronze": 16,
+    "Total": 37,
+    "Rank by Total": 8
+  },
+  {
+    "Rank": 10,
+    "Team_Country": "Italy",
+    "Gold": 10,
+    "Silver": 10,
+    "Bronze": 20,
+    "Total": 40,
+    "Rank by Total": 7
+  },
+  {
+    "Rank": 11,
+    "Team_Country": "Canada",
+    "Gold": 7,
+    "Silver": 6,
+    "Bronze": 11,
+    "Total": 24,
+    "Rank by Total": 11
+  },
+  {
+    "Rank": 12,
+    "Team_Country": "Brazil",
+    "Gold": 7,
+    "Silver": 6,
+    "Bronze": 8,
+    "Total": 21,
+    "Rank by Total": 12
+  },
+  {
+    "Rank": 13,
+    "Team_Country": "New Zealand",
+    "Gold": 7,
+    "Silver": 6,
+    "Bronze": 7,
+    "Total": 20,
+    "Rank by Total": 13
+  },
+  {
+    "Rank": 14,
+    "Team_Country": "Cuba",
+    "Gold": 7,
+    "Silver": 3,
+    "Bronze": 5,
+    "Total": 15,
+    "Rank by Total": 18
+  },
+  {
+    "Rank": 15,
+    "Team_Country": "Hungary",
+    "Gold": 6,
+    "Silver": 7,
+    "Bronze": 7,
+    "Total": 20,
+    "Rank by Total": 13
+  },
+  {
+    "Rank": 16,
+    "Team_Country": "Republic of Korea",
+    "Gold": 6,
+    "Silver": 4,
+    "Bronze": 10,
+    "Total": 20,
+    "Rank by Total": 13
+  },
+  {
+    "Rank": 17,
+    "Team_Country": "Poland",
+    "Gold": 4,
+    "Silver": 5,
+    "Bronze": 5,
+    "Total": 14,
+    "Rank by Total": 19
+  },
+  {
+    "Rank": 18,
+    "Team_Country": "Czech Republic",
+    "Gold": 4,
+    "Silver": 4,
+    "Bronze": 3,
+    "Total": 11,
+    "Rank by Total": 23
+  },
+  {
+    "Rank": 19,
+    "Team_Country": "Kenya",
+    "Gold": 4,
+    "Silver": 4,
+    "Bronze": 2,
+    "Total": 10,
+    "Rank by Total": 25
+  },
+  {
+    "Rank": 20,
+    "Team_Country": "Norway",
+    "Gold": 4,
+    "Silver": 2,
+    "Bronze": 2,
+    "Total": 8,
+    "Rank by Total": 29
+  },
+  {
+    "Rank": 21,
+    "Team_Country": "Jamaica",
+    "Gold": 4,
+    "Silver": 1,
+    "Bronze": 4,
+    "Total": 9,
+    "Rank by Total": 26
+  },
+  {
+    "Rank": 22,
+    "Team_Country": "Spain",
+    "Gold": 3,
+    "Silver": 8,
+    "Bronze": 6,
+    "Total": 17,
+    "Rank by Total": 17
+  },
+  {
+    "Rank": 23,
+    "Team_Country": "Sweden",
+    "Gold": 3,
+    "Silver": 6,
+    "Bronze": 0,
+    "Total": 9,
+    "Rank by Total": 26
+  },
+  {
+    "Rank": 24,
+    "Team_Country": "Switzerland",
+    "Gold": 3,
+    "Silver": 4,
+    "Bronze": 6,
+    "Total": 13,
+    "Rank by Total": 20
+  },
+  {
+    "Rank": 25,
+    "Team_Country": "Denmark",
+    "Gold": 3,
+    "Silver": 4,
+    "Bronze": 4,
+    "Total": 11,
+    "Rank by Total": 23
+  },
+  {
+    "Rank": 26,
+    "Team_Country": "Croatia",
+    "Gold": 3,
+    "Silver": 3,
+    "Bronze": 2,
+    "Total": 8,
+    "Rank by Total": 29
+  },
+  {
+    "Rank": 27,
+    "Team_Country": "Islamic Republic of Iran",
+    "Gold": 3,
+    "Silver": 2,
+    "Bronze": 2,
+    "Total": 7,
+    "Rank by Total": 33
+  },
+  {
+    "Rank": 28,
+    "Team_Country": "Serbia",
+    "Gold": 3,
+    "Silver": 1,
+    "Bronze": 5,
+    "Total": 9,
+    "Rank by Total": 26
+  },
+  {
+    "Rank": 29,
+    "Team_Country": "Belgium",
+    "Gold": 3,
+    "Silver": 1,
+    "Bronze": 3,
+    "Total": 7,
+    "Rank by Total": 33
+  },
+  {
+    "Rank": 30,
+    "Team_Country": "Bulgaria",
+    "Gold": 3,
+    "Silver": 1,
+    "Bronze": 2,
+    "Total": 6,
+    "Rank by Total": 39
+  },
+  {
+    "Rank": 31,
+    "Team_Country": "Slovenia",
+    "Gold": 3,
+    "Silver": 1,
+    "Bronze": 1,
+    "Total": 5,
+    "Rank by Total": 42
+  },
+  {
+    "Rank": 32,
+    "Team_Country": "Uzbekistan",
+    "Gold": 3,
+    "Silver": 0,
+    "Bronze": 2,
+    "Total": 5,
+    "Rank by Total": 42
+  },
+  {
+    "Rank": 33,
+    "Team_Country": "Georgia",
+    "Gold": 2,
+    "Silver": 5,
+    "Bronze": 1,
+    "Total": 8,
+    "Rank by Total": 29
+  },
+  {
+    "Rank": 34,
+    "Team_Country": "Chinese Taipei",
+    "Gold": 2,
+    "Silver": 4,
+    "Bronze": 6,
+    "Total": 12,
+    "Rank by Total": 22
+  },
+  {
+    "Rank": 35,
+    "Team_Country": "Turkey",
+    "Gold": 2,
+    "Silver": 2,
+    "Bronze": 9,
+    "Total": 13,
+    "Rank by Total": 20
+  },
+  {
+    "Rank": 36,
+    "Team_Country": "Greece",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 1,
+    "Total": 4,
+    "Rank by Total": 47
+  },
+  {
+    "Rank": 36,
+    "Team_Country": "Uganda",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 1,
+    "Total": 4,
+    "Rank by Total": 47
+  },
+  {
+    "Rank": 38,
+    "Team_Country": "Ecuador",
+    "Gold": 2,
+    "Silver": 1,
+    "Bronze": 0,
+    "Total": 3,
+    "Rank by Total": 60
+  },
+  {
+    "Rank": 39,
+    "Team_Country": "Ireland",
+    "Gold": 2,
+    "Silver": 0,
+    "Bronze": 2,
+    "Total": 4,
+    "Rank by Total": 47
+  },
+  {
+    "Rank": 39,
+    "Team_Country": "Israel",
+    "Gold": 2,
+    "Silver": 0,
+    "Bronze": 2,
+    "Total": 4,
+    "Rank by Total": 47
+  },
+  {
+    "Rank": 41,
+    "Team_Country": "Qatar",
+    "Gold": 2,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 3,
+    "Rank by Total": 60
+  },
+  {
+    "Rank": 42,
+    "Team_Country": "Bahamas",
+    "Gold": 2,
+    "Silver": 0,
+    "Bronze": 0,
+    "Total": 2,
+    "Rank by Total": 66
+  },
+  {
+    "Rank": 42,
+    "Team_Country": "Kosovo",
+    "Gold": 2,
+    "Silver": 0,
+    "Bronze": 0,
+    "Total": 2,
+    "Rank by Total": 66
+  },
+  {
+    "Rank": 44,
+    "Team_Country": "Ukraine",
+    "Gold": 1,
+    "Silver": 6,
+    "Bronze": 12,
+    "Total": 19,
+    "Rank by Total": 16
+  },
+  {
+    "Rank": 45,
+    "Team_Country": "Belarus",
+    "Gold": 1,
+    "Silver": 3,
+    "Bronze": 3,
+    "Total": 7,
+    "Rank by Total": 33
+  },
+  {
+    "Rank": 46,
+    "Team_Country": "Romania",
+    "Gold": 1,
+    "Silver": 3,
+    "Bronze": 0,
+    "Total": 4,
+    "Rank by Total": 47
+  },
+  {
+    "Rank": 46,
+    "Team_Country": "Venezuela",
+    "Gold": 1,
+    "Silver": 3,
+    "Bronze": 0,
+    "Total": 4,
+    "Rank by Total": 47
+  },
+  {
+    "Rank": 48,
+    "Team_Country": "India",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 4,
+    "Total": 7,
+    "Rank by Total": 33
+  },
+  {
+    "Rank": 49,
+    "Team_Country": "Hong Kong, China",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 3,
+    "Total": 6,
+    "Rank by Total": 39
+  },
+  {
+    "Rank": 50,
+    "Team_Country": "Philippines",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 1,
+    "Total": 4,
+    "Rank by Total": 47
+  },
+  {
+    "Rank": 50,
+    "Team_Country": "Slovakia",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 1,
+    "Total": 4,
+    "Rank by Total": 47
+  },
+  {
+    "Rank": 52,
+    "Team_Country": "South Africa",
+    "Gold": 1,
+    "Silver": 2,
+    "Bronze": 0,
+    "Total": 3,
+    "Rank by Total": 60
+  },
+  {
+    "Rank": 53,
+    "Team_Country": "Austria",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 5,
+    "Total": 7,
+    "Rank by Total": 33
+  },
+  {
+    "Rank": 54,
+    "Team_Country": "Egypt",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 4,
+    "Total": 6,
+    "Rank by Total": 39
+  },
+  {
+    "Rank": 55,
+    "Team_Country": "Indonesia",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 3,
+    "Total": 5,
+    "Rank by Total": 42
+  },
+  {
+    "Rank": 56,
+    "Team_Country": "Ethiopia",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 2,
+    "Total": 4,
+    "Rank by Total": 47
+  },
+  {
+    "Rank": 56,
+    "Team_Country": "Portugal",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 2,
+    "Total": 4,
+    "Rank by Total": 47
+  },
+  {
+    "Rank": 58,
+    "Team_Country": "Tunisia",
+    "Gold": 1,
+    "Silver": 1,
+    "Bronze": 0,
+    "Total": 2,
+    "Rank by Total": 66
+  },
+  {
+    "Rank": 59,
+    "Team_Country": "Estonia",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 2,
+    "Rank by Total": 66
+  },
+  {
+    "Rank": 59,
+    "Team_Country": "Fiji",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 2,
+    "Rank by Total": 66
+  },
+  {
+    "Rank": 59,
+    "Team_Country": "Latvia",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 2,
+    "Rank by Total": 66
+  },
+  {
+    "Rank": 59,
+    "Team_Country": "Thailand",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 2,
+    "Rank by Total": 66
+  },
+  {
+    "Rank": 63,
+    "Team_Country": "Bermuda",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0,
+    "Total": 1,
+    "Rank by Total": 77
+  },
+  {
+    "Rank": 63,
+    "Team_Country": "Morocco",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0,
+    "Total": 1,
+    "Rank by Total": 77
+  },
+  {
+    "Rank": 63,
+    "Team_Country": "Puerto Rico",
+    "Gold": 1,
+    "Silver": 0,
+    "Bronze": 0,
+    "Total": 1,
+    "Rank by Total": 77
+  },
+  {
+    "Rank": 66,
+    "Team_Country": "Colombia",
+    "Gold": 0,
+    "Silver": 4,
+    "Bronze": 1,
+    "Total": 5,
+    "Rank by Total": 42
+  },
+  {
+    "Rank": 67,
+    "Team_Country": "Azerbaijan",
+    "Gold": 0,
+    "Silver": 3,
+    "Bronze": 4,
+    "Total": 7,
+    "Rank by Total": 33
+  },
+  {
+    "Rank": 68,
+    "Team_Country": "Dominican Republic",
+    "Gold": 0,
+    "Silver": 3,
+    "Bronze": 2,
+    "Total": 5,
+    "Rank by Total": 42
+  },
+  {
+    "Rank": 69,
+    "Team_Country": "Armenia",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 2,
+    "Total": 4,
+    "Rank by Total": 47
+  },
+  {
+    "Rank": 70,
+    "Team_Country": "Kyrgyzstan",
+    "Gold": 0,
+    "Silver": 2,
+    "Bronze": 1,
+    "Total": 3,
+    "Rank by Total": 60
+  },
+  {
+    "Rank": 71,
+    "Team_Country": "Mongolia",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 3,
+    "Total": 4,
+    "Rank by Total": 47
+  },
+  {
+    "Rank": 72,
+    "Team_Country": "Argentina",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 2,
+    "Total": 3,
+    "Rank by Total": 60
+  },
+  {
+    "Rank": 72,
+    "Team_Country": "San Marino",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 2,
+    "Total": 3,
+    "Rank by Total": 60
+  },
+  {
+    "Rank": 74,
+    "Team_Country": "Jordan",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 1,
+    "Total": 2,
+    "Rank by Total": 66
+  },
+  {
+    "Rank": 74,
+    "Team_Country": "Malaysia",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 1,
+    "Total": 2,
+    "Rank by Total": 66
+  },
+  {
+    "Rank": 74,
+    "Team_Country": "Nigeria",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 1,
+    "Total": 2,
+    "Rank by Total": 66
+  },
+  {
+    "Rank": 77,
+    "Team_Country": "Bahrain",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0,
+    "Total": 1,
+    "Rank by Total": 77
+  },
+  {
+    "Rank": 77,
+    "Team_Country": "Saudi Arabia",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0,
+    "Total": 1,
+    "Rank by Total": 77
+  },
+  {
+    "Rank": 77,
+    "Team_Country": "Lithuania",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0,
+    "Total": 1,
+    "Rank by Total": 77
+  },
+  {
+    "Rank": 77,
+    "Team_Country": "North Macedonia",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0,
+    "Total": 1,
+    "Rank by Total": 77
+  },
+  {
+    "Rank": 77,
+    "Team_Country": "Namibia",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0,
+    "Total": 1,
+    "Rank by Total": 77
+  },
+  {
+    "Rank": 77,
+    "Team_Country": "Turkmenistan",
+    "Gold": 0,
+    "Silver": 1,
+    "Bronze": 0,
+    "Total": 1,
+    "Rank by Total": 77
+  },
+  {
+    "Rank": 83,
+    "Team_Country": "Kazakhstan",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 8,
+    "Total": 8,
+    "Rank by Total": 29
+  },
+  {
+    "Rank": 84,
+    "Team_Country": "Mexico",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 4,
+    "Total": 4,
+    "Rank by Total": 47
+  },
+  {
+    "Rank": 85,
+    "Team_Country": "Finland",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 2,
+    "Total": 2,
+    "Rank by Total": 66
+  },
+  {
+    "Rank": 86,
+    "Team_Country": "Botswana",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1,
+    "Rank by Total": 77
+  },
+  {
+    "Rank": 86,
+    "Team_Country": "Burkina Faso",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1,
+    "Rank by Total": 77
+  },
+  {
+    "Rank": 86,
+    "Team_Country": "C�te d'Ivoire",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1,
+    "Rank by Total": 77
+  },
+  {
+    "Rank": 86,
+    "Team_Country": "Ghana",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1,
+    "Rank by Total": 77
+  },
+  {
+    "Rank": 86,
+    "Team_Country": "Grenada",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1,
+    "Rank by Total": 77
+  },
+  {
+    "Rank": 86,
+    "Team_Country": "Kuwait",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1,
+    "Rank by Total": 77
+  },
+  {
+    "Rank": 86,
+    "Team_Country": "Republic of Moldova",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1,
+    "Rank by Total": 77
+  },
+  {
+    "Rank": 86,
+    "Team_Country": "Syrian Arab Republic",
+    "Gold": 0,
+    "Silver": 0,
+    "Bronze": 1,
+    "Total": 1,
+    "Rank by Total": 77
+  }
+]

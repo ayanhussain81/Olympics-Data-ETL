@@ -1,0 +1,278 @@
+[
+  {
+    "Discipline": "3x3 Basketball",
+    "Female": 32,
+    "Male": 32,
+    "Total": 64
+  },
+  {
+    "Discipline": "Archery",
+    "Female": 64,
+    "Male": 64,
+    "Total": 128
+  },
+  {
+    "Discipline": "Artistic Gymnastics",
+    "Female": 98,
+    "Male": 98,
+    "Total": 196
+  },
+  {
+    "Discipline": "Artistic Swimming",
+    "Female": 105,
+    "Male": 0,
+    "Total": 105
+  },
+  {
+    "Discipline": "Athletics",
+    "Female": 969,
+    "Male": 1072,
+    "Total": 2041
+  },
+  {
+    "Discipline": "Badminton",
+    "Female": 86,
+    "Male": 87,
+    "Total": 173
+  },
+  {
+    "Discipline": "Baseball/Softball",
+    "Female": 90,
+    "Male": 144,
+    "Total": 234
+  },
+  {
+    "Discipline": "Basketball",
+    "Female": 144,
+    "Male": 144,
+    "Total": 288
+  },
+  {
+    "Discipline": "Beach Volleyball",
+    "Female": 48,
+    "Male": 48,
+    "Total": 96
+  },
+  {
+    "Discipline": "Boxing",
+    "Female": 102,
+    "Male": 187,
+    "Total": 289
+  },
+  {
+    "Discipline": "Canoe Slalom",
+    "Female": 41,
+    "Male": 41,
+    "Total": 82
+  },
+  {
+    "Discipline": "Canoe Sprint",
+    "Female": 123,
+    "Male": 126,
+    "Total": 249
+  },
+  {
+    "Discipline": "Cycling BMX Freestyle",
+    "Female": 10,
+    "Male": 9,
+    "Total": 19
+  },
+  {
+    "Discipline": "Cycling BMX Racing",
+    "Female": 24,
+    "Male": 24,
+    "Total": 48
+  },
+  {
+    "Discipline": "Cycling Mountain Bike",
+    "Female": 38,
+    "Male": 38,
+    "Total": 76
+  },
+  {
+    "Discipline": "Cycling Road",
+    "Female": 70,
+    "Male": 131,
+    "Total": 201
+  },
+  {
+    "Discipline": "Cycling Track",
+    "Female": 90,
+    "Male": 99,
+    "Total": 189
+  },
+  {
+    "Discipline": "Diving",
+    "Female": 72,
+    "Male": 71,
+    "Total": 143
+  },
+  {
+    "Discipline": "Equestrian",
+    "Female": 73,
+    "Male": 125,
+    "Total": 198
+  },
+  {
+    "Discipline": "Fencing",
+    "Female": 107,
+    "Male": 108,
+    "Total": 215
+  },
+  {
+    "Discipline": "Football",
+    "Female": 264,
+    "Male": 344,
+    "Total": 608
+  },
+  {
+    "Discipline": "Golf",
+    "Female": 60,
+    "Male": 60,
+    "Total": 120
+  },
+  {
+    "Discipline": "Handball",
+    "Female": 168,
+    "Male": 168,
+    "Total": 336
+  },
+  {
+    "Discipline": "Hockey",
+    "Female": 192,
+    "Male": 192,
+    "Total": 384
+  },
+  {
+    "Discipline": "Judo",
+    "Female": 192,
+    "Male": 201,
+    "Total": 393
+  },
+  {
+    "Discipline": "Karate",
+    "Female": 40,
+    "Male": 42,
+    "Total": 82
+  },
+  {
+    "Discipline": "Marathon Swimming",
+    "Female": 25,
+    "Male": 25,
+    "Total": 50
+  },
+  {
+    "Discipline": "Modern Pentathlon",
+    "Female": 36,
+    "Male": 36,
+    "Total": 72
+  },
+  {
+    "Discipline": "Rhythmic Gymnastics",
+    "Female": 96,
+    "Male": 0,
+    "Total": 96
+  },
+  {
+    "Discipline": "Rowing",
+    "Female": 257,
+    "Male": 265,
+    "Total": 522
+  },
+  {
+    "Discipline": "Rugby Sevens",
+    "Female": 146,
+    "Male": 151,
+    "Total": 297
+  },
+  {
+    "Discipline": "Sailing",
+    "Female": 175,
+    "Male": 175,
+    "Total": 350
+  },
+  {
+    "Discipline": "Shooting",
+    "Female": 178,
+    "Male": 178,
+    "Total": 356
+  },
+  {
+    "Discipline": "Skateboarding",
+    "Female": 40,
+    "Male": 40,
+    "Total": 80
+  },
+  {
+    "Discipline": "Sport Climbing",
+    "Female": 20,
+    "Male": 20,
+    "Total": 40
+  },
+  {
+    "Discipline": "Surfing",
+    "Female": 20,
+    "Male": 20,
+    "Total": 40
+  },
+  {
+    "Discipline": "Swimming",
+    "Female": 361,
+    "Male": 418,
+    "Total": 779
+  },
+  {
+    "Discipline": "Table Tennis",
+    "Female": 86,
+    "Male": 86,
+    "Total": 172
+  },
+  {
+    "Discipline": "Taekwondo",
+    "Female": 65,
+    "Male": 65,
+    "Total": 130
+  },
+  {
+    "Discipline": "Tennis",
+    "Female": 94,
+    "Male": 97,
+    "Total": 191
+  },
+  {
+    "Discipline": "Trampoline Gymnastics",
+    "Female": 16,
+    "Male": 16,
+    "Total": 32
+  },
+  {
+    "Discipline": "Triathlon",
+    "Female": 55,
+    "Male": 55,
+    "Total": 110
+  },
+  {
+    "Discipline": "Volleyball",
+    "Female": 144,
+    "Male": 144,
+    "Total": 288
+  },
+  {
+    "Discipline": "Water Polo",
+    "Female": 122,
+    "Male": 146,
+    "Total": 268
+  },
+  {
+    "Discipline": "Weightlifting",
+    "Female": 98,
+    "Male": 99,
+    "Total": 197
+  },
+  {
+    "Discipline": "Wrestling",
+    "Female": 96,
+    "Male": 193,
+    "Total": 289
+  }
+]
